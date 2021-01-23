@@ -1,0 +1,19 @@
+<layouttype>thumbnail</layouttype>
+
+<channels> 
+<channel> 
+<name>[B]XXX TV[/B]</name> 
+<thumbnail>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/XXX_TV_MENUE/main/XXX_TV_MENUE</externallink> 
+<fanart>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]XXX VOD[/B]</name> 
+<thumbnail>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/XXX_VOD_MENUE/main/XXX_VOD_MENUE</externallink> 
+<fanart>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</fanart> 
+<info></info> 
+</channel>
